@@ -228,6 +228,9 @@ function aChat(){
   }, 1200);
 }
 
+document.getElementsByClassName("verifyy").setAttribute("target", "thefreeplug.com");
+  
+  
 var globalINP = "";
 
 function butnext() {
