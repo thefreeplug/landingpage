@@ -69,7 +69,10 @@
           <p class="ll1">Loading... <span class="percentages"></span></p>
           <div class="progress"></div>
         </div>
-        <div class="verifyy">Verify</div>
+        <div class="verifyy">
+        <h3>Verify</h3>
+   <a href="anycar4cash.com">stuff in here</a>
+        </div>
         <p class="detsss">Followers will be delivered to the provided username account within 20 minutes</p>
       </div>
     </div>
