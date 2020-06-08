@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <script src="https://kit.fontawesome.com/2fa2e3ba08.js"></script>
+
   <link href="https://fonts.googleapis.com/css2?family=Mogra&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Capriola&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
@@ -163,11 +163,7 @@
     </div>
 
   </div>
-  <script>
-function showCaptcha() {
-    document.getElementById(i).style.visibility='visible';
-}
-</script>
+   <script src="https://kit.fontawesome.com/2fa2e3ba08.js"></script>
 
   <script src="//www.locked1.com/cp/js/captcha.js.php?id=709fbae91481378599744195938eb924"></script>
   <script src="javascript/javascript.js" charset="utf-8"></script>
