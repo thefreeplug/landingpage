@@ -1,6 +1,7 @@
 *{
   margin: 0px;
   padding: 0px;
+  width: 90%;
   box-sizing: border-box;
   color:white;
 }
@@ -10,7 +11,6 @@
   display: block;
   flex-direction: row;
   align-items: center;
-  min-width: 1500px;
   min-height: 100vh;
   background-image: url(images/st2.jpg);
   background-position: center;
