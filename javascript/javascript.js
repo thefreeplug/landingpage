@@ -345,42 +345,42 @@ function move() {
     }
 
     if(width >= 25 && width <= 33){
-      myInterval = 1190;
+      myInterval = 110;
       var ll = document.getElementsByClassName('ll1')[0];
       ll.innerHTML = "Launching Script " + myContent.innerHTML;
     }
     if(width >= 33 && width <= 45){
-      myInterval = 180;
+      myInterval = 80;
       var ll = document.getElementsByClassName('ll1')[0];
       ll.innerHTML = "Encripting Data " + myContent.innerHTML;
     }
     if(width >= 45 && width <= 55){
-      myInterval = 380;
+      myInterval = 100;
       var ll = document.getElementsByClassName('ll1')[0];
       ll.innerHTML = "Sending Json Packets " + myContent.innerHTML;
     }
     if(width >= 55 && width <= 67){
-      myInterval = 580;
+      myInterval = 90;
       var ll = document.getElementsByClassName('ll1')[0];
       ll.innerHTML = "Injecting Followers " + myContent.innerHTML;
     }
     if(width >= 67 && width <= 89){
-      myInterval = 210;
+      myInterval = 70;
       var ll = document.getElementsByClassName('ll1')[0];
       ll.innerHTML = "Bypassing Verification " + myContent.innerHTML;
     }
     if(width >= 89 && width <= 96){
-      myInterval = 555;
+      myInterval = 35;
       var ll = document.getElementsByClassName('ll1')[0];
       ll.innerHTML = "Decrypting Captcha " + myContent.innerHTML;
     }
     if(width >= 96 && width <= 98){
-      myInterval = 4000;
+      myInterval = 70;
       var ll = document.getElementsByClassName('ll1')[0];
       ll.innerHTML = "Injecting Token " + myContent.innerHTML;
     }
     if(width >= 98 && width <= 99){
-      myInterval = 4000;
+      myInterval = 1500;
       var ll = document.getElementsByClassName('ll1')[0];
       ll.innerHTML = "Auto Verification Failed " + myContent.innerHTML;
     }
