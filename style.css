@@ -41,7 +41,7 @@
 
 .lgoo::after {
   content: "";
-  background: url(images\logo.svg);
+  background-image: url(images\logo.svg);
   opacity: 0.5;
   top: 0;
   left: 0;
