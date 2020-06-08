@@ -15,7 +15,7 @@
 <body onload="aChat()">
   <div class="mainWrapper">
     <div class="hdr">
-      <img class="lgoo" src="images\logo.png" alt="" class="lgo">
+      <img class="lgoo" src="images\logo.svg" alt="" class="lgo">
       <p class="bigH">Free OfferUp Ratings</p>
       <p class="smallH">Boost Sales INSTANTLY</p>
       <p class="smallH">INCREASE CUSTOMER OUTREACH. IMPROVE CREDIBILITY. INSTANT BOOST IN LEADS.</p>
@@ -47,15 +47,15 @@
         <p class="selectP">Number Of Followers</p>
         <div class="packages">
           <div class="ppp" onclick="selectedPackage(event)">
-            <img class="sPack" src="images\logo.png" alt="">
+            <img class="sPack" src="images\stars.svg" alt="">
             <p class="amount">5000</p>
           </div>
           <div class="ppp mid" onclick="selectedPackage(event)">
-            <img class="sPack" src="images\logo.png" alt="">
+            <img class="sPack" src="images\stars.svg" alt="">
             <p class="amount">15000</p>
           </div>
           <div class="ppp" onclick="selectedPackage(event)">
-            <img class="sPack" src="images\logo.png" alt="">
+            <img class="sPack" src="images\stars.svg" alt="">
             <p class="amount">30000</p>
           </div>
         </div>
