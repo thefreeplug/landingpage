@@ -27,7 +27,7 @@
   border-bottom: 1px solid #00A980;
   width: 100%;
   margin-top: 50px;
-  background-color: #FF006C;
+  background-color: #00A980;
   padding-bottom: 40px;
  
 }
@@ -38,6 +38,12 @@
   display: block;
   position: relative;
 }
+.markdown-body img {
+    max-width: 100%;
+    box-sizing: content-box;
+    background-color: #fff;
+}
+
 
 .lgoo::after {
   content: "";
