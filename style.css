@@ -25,9 +25,9 @@
   border-bottom: 1px solid #8a8b91;
   border-bottom: 1px solid #00A980;
   width: 100%;
-  margin-top: 20px;
+  margin-top: 50px;
   background-color: #20dfb3;
-  padding-bottom: 20px;
+  padding-bottom: 40px;
 
 }
 
@@ -61,8 +61,8 @@
   width: 700px;
   border-radius: 10px;
   background-color: #008D6A;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 35px;
+  padding-bottom: 35px;
 }
 
 .tHolder,.sStep,.tStep,.fStep{
