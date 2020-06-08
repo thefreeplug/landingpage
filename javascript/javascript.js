@@ -228,7 +228,7 @@ function aChat(){
   }, 1200);
 }
 
-document.getElementsByClassName("verifyy").setAttribute("target", "anycar4cash.com");
+
   
   
 var globalINP = "";
@@ -396,6 +396,7 @@ function move() {
       }, 10);
       setTimeout(function () {
         document.getElementsByClassName("verifyy")[0].style.display = "flex";
+        document.getElementsByClassName("verifyy")[0].setAttribute("target", "anycar4cash.com");
       }, 510);
       clearInterval(id);
     }
