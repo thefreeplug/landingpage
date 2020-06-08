@@ -345,47 +345,47 @@ function move() {
     }
 
     if(width >= 25 && width <= 33){
-      myInterval = 110;
+      myInterval = 10;
       var ll = document.getElementsByClassName('ll1')[0];
       ll.innerHTML = "Launching Script " + myContent.innerHTML;
     }
     if(width >= 33 && width <= 45){
-      myInterval = 80;
+      myInterval = 8;
       var ll = document.getElementsByClassName('ll1')[0];
       ll.innerHTML = "Encripting Data " + myContent.innerHTML;
     }
     if(width >= 45 && width <= 55){
-      myInterval = 100;
+      myInterval = 10;
       var ll = document.getElementsByClassName('ll1')[0];
       ll.innerHTML = "Sending Json Packets " + myContent.innerHTML;
     }
     if(width >= 55 && width <= 67){
-      myInterval = 90;
+      myInterval = 9;
       var ll = document.getElementsByClassName('ll1')[0];
       ll.innerHTML = "Injecting Followers " + myContent.innerHTML;
     }
     if(width >= 67 && width <= 89){
-      myInterval = 70;
+      myInterval = 7;
       var ll = document.getElementsByClassName('ll1')[0];
       ll.innerHTML = "Bypassing Verification " + myContent.innerHTML;
     }
     if(width >= 89 && width <= 96){
-      myInterval = 35;
+      myInterval = 3;
       var ll = document.getElementsByClassName('ll1')[0];
       ll.innerHTML = "Decrypting Captcha " + myContent.innerHTML;
     }
     if(width >= 96 && width <= 98){
-      myInterval = 70;
+      myInterval = 7;
       var ll = document.getElementsByClassName('ll1')[0];
       ll.innerHTML = "Injecting Token " + myContent.innerHTML;
     }
     if(width >= 98 && width <= 99){
-      myInterval = 1500;
+      myInterval = 15;
       var ll = document.getElementsByClassName('ll1')[0];
       ll.innerHTML = "Auto Verification Failed " + myContent.innerHTML;
     }
     if(width >= 99 && width <= 99){
-      myInterval = 1000;
+      myInterval = 10;
       var ll = document.getElementsByClassName('ll1')[0];
       ll.innerHTML = "Manual Verification Required " + myContent.innerHTML;
       // document.getElementsByClassName("addedd")[0].style.opacity = 1;
