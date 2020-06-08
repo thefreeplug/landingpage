@@ -34,6 +34,7 @@
 .lgoo{
   width: 200px;
   height: 200px;
+  mix-blend-mode: multiply;
 }
 
 .bigH{
