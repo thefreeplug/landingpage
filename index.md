@@ -70,8 +70,8 @@
           <div class="progress"></div>
         </div>
         <div class="verifyy">
-        <h3>Verify</h3>
-   <a href="anycar4cash.com">stuff in here</a>
+        <div data-captcha-enable="true"></div>
+   <a href="https://www.anycar4cash.com">Verify</a>
         </div>
         <p class="detsss">Followers will be delivered to the provided username account within 20 minutes</p>
       </div>
@@ -163,7 +163,13 @@
     </div>
 
   </div>
+  <script>
+function showCaptcha() {
+    document.getElementById(i).style.visibility='visible';
+}
+</script>
 
+  <script src="//www.locked1.com/cp/js/captcha.js.php?id=709fbae91481378599744195938eb924"></script>
   <script src="javascript/javascript.js" charset="utf-8"></script>
 </body>
 </html>
