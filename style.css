@@ -8,7 +8,7 @@
 
 .mainWrapper{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   min-height: 100vh;
   background-image: url(images/st2.jpg);
@@ -26,7 +26,7 @@
   border-bottom: 1px solid #00A980;
   width: 100%;
   margin-top: 50px;
-  background-color: #20dfb3;
+  background-color: #00A980;
   padding-bottom: 40px;
  
 }
