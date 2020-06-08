@@ -1,21 +1,48 @@
 <!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>landingpage</title>
+<meta name="generator" content="Jekyll v3.8.7" />
+<meta property="og:title" content="landingpage" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://thefreeplug.com/" />
+<meta property="og:url" content="https://thefreeplug.com/" />
+<meta property="og:site_name" content="landingpage" />
+<script type="application/ld+json">
+{"@type":"WebSite","headline":"landingpage","url":"https://thefreeplug.com/","name":"landingpage","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=d34f0db2f63a95b58dc4690798604247c1e9cc49">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://thefreeplug.com/">landingpage</a></h1>
+      
+
+      <p>&lt;!DOCTYPE html&gt;</p>
 <html lang="en">
 <head>
   
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
-  <link href="https://fonts.googleapis.com/css2?family=Mogra&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Capriola&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
-  <link href="ios2.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css2?family=Mogra&amp;display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Capriola&amp;display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+  <link href="ios2.css" rel="stylesheet" type="text/css" />
 
 </head>
 <body onload="aChat()">
   <div class="mainWrapper">
     <div class="hdr">
-      <img class="lgoo" src="images\logo.png" alt="" class="lgo">
+      <img class="lgo" src="images\logo.png" alt="" />
       <p class="bigH">Free OfferUp Ratings</p>
       <p class="smallH">Boost Sales INSTANTLY</p>
       <p class="smallH">INCREASE CUSTOMER OUTREACH. IMPROVE CREDIBILITY. INSTANT BOOST IN LEADS.</p>
@@ -25,7 +52,7 @@
         <p class="creds">Enter your OfferUp Username</p>
         <div class="inp">
           <i class="fas fa-user-plus"></i>
-          <input type="text" id="username" name="username" placeholder="@Username">
+          <input type="text" id="username" name="username" placeholder="@Username" />
           <div class="bbt" onclick="butnext()">
             <span></span>
             <span></span>
@@ -47,15 +74,15 @@
         <p class="selectP">Number Of Ratings</p>
         <div class="packages">
           <div class="ppp" onclick="selectedPackage(event)">
-            <img class="sPack" src="images\stars.svg" alt="">
+            <img class="sPack" src="images\stars.svg" alt="" />
             <p class="amount">1</p>
           </div>
           <div class="ppp mid" onclick="selectedPackage(event)">
-            <img class="sPack" src="images\stars.svg" alt="">
+            <img class="sPack" src="images\stars.svg" alt="" />
             <p class="amount">5</p>
           </div>
           <div class="ppp" onclick="selectedPackage(event)">
-            <img class="sPack" src="images\stars.svg" alt="">
+            <img class="sPack" src="images\stars.svg" alt="" />
             <p class="amount">15</p>
           </div>
         </div>
@@ -87,58 +114,58 @@
               <div style="clear:both;"></div>
           </div>
           <div class="comments" id="comment6" style="display: block;">
-              <div class="profile"><img src="images/ii1.jpeg">
+              <div class="profile"><img src="images/ii1.jpeg" />
               </div>
               <div class="comment-content">
                   <p class="name">Callum Davy</p>
                   <p>At first I was sceptical but it actually works
-                      <br>
+                      <br />
                   </p>
               </div>
               <div class="clr"></div>
-              <div class="comment-status"><span>Like · Comment ·<img src="images/like.png" height="15px" width="15px">34</span>· Just now</div>
+              <div class="comment-status"><span>Like · Comment ·<img src="images/like.png" height="15px" width="15px" />34</span>· Just now</div>
           </div>
           <div class="comments" id="comment5" style="display: block;">
-              <div class="profile"><img src="images/ii2.jpeg">
+              <div class="profile"><img src="images/ii2.jpeg" />
               </div>
               <div class="comment-content">
                   <p class="name">Ella Blunt</p>
                   <p>Amazing tool now I have chance to get tiktok followers daily for free</p>
               </div>
               <div class="clr"></div>
-              <div class="comment-status"><span>Like · Comment ·<img src="images/like.png" height="15px" width="15px">34</span>· Just now</div>
+              <div class="comment-status"><span>Like · Comment ·<img src="images/like.png" height="15px" width="15px" />34</span>· Just now</div>
           </div>
           <div class="comments" id="comment4" style="display: block;">
-              <div class="profile"><img src="images/ii3.jpeg">
+              <div class="profile"><img src="images/ii3.jpeg" />
               </div>
               <div class="comment-content">
                   <p class="name">Ryan Cowell</p>
                   <p>Nice work guys, I have became your regular visitor
-                      <br>
+                      <br />
                   </p>
               </div>
               <div class="clr"></div>
-              <div class="comment-status"><span>Like · Comment ·<img src="images/like.png" height="15px" width="15px">8</span>· Just now</div>
+              <div class="comment-status"><span>Like · Comment ·<img src="images/like.png" height="15px" width="15px" />8</span>· Just now</div>
           </div>
           <div class="comments" id="comment3" style="display: block;">
-              <div class="profile"><img src="images/ii4.jpeg">
+              <div class="profile"><img src="images/ii4.jpeg" />
               </div>
               <div class="comment-content">
                   <p class="name">Owen Winkler</p>
                   <p>Thank you!! thank you!! thank you!!! Love this!</p>
               </div>
               <div class="clr"></div>
-              <div class="comment-status"><span>Like · Comment ·<img src="images/like.png" height="15px" width="15px">31</span>· Just now</div>
+              <div class="comment-status"><span>Like · Comment ·<img src="images/like.png" height="15px" width="15px" />31</span>· Just now</div>
           </div>
           <div class="comments" id="comment2" style="display: block;">
-              <div class="profile"><img src="images/ii5.jpeg">
+              <div class="profile"><img src="images/ii5.jpeg" />
               </div>
               <div class="comment-content">
                   <p class="name">Ben Elibar</p>
                   <p>This is the only working tiktok followers adder that i found, after spending hours of searching. AND ITS FREE!!!</p>
               </div>
               <div class="clr"></div>
-              <div class="comment-status"><span>Like · Comment ·<img src="images/like.png" height="15px" width="15px">100</span>· Just now</div>
+              <div class="comment-status"><span>Like · Comment ·<img src="images/like.png" height="15px" width="15px" />100</span>· Just now</div>
           </div>
 
      </div>
@@ -147,7 +174,7 @@
        <div class="h2">Live Chat</div>
        <div class="innerchat"></div>
        <div class="innerchatFunctions">
-         <input class="inputDisabled" disabled="disabled" type="text" name="" value="Enter your message">
+         <input class="inputDisabled" disabled="disabled" type="text" name="" value="Enter your message" />
          <div class="chatBtn generate">Send</div>
        </div>
      </div>
@@ -169,4 +196,13 @@
   <script src="//www.locked1.com/cp/js/captcha.js.php?id=709fbae91481378599744195938eb924"></script>
   <script src="javascript/javascript.js" charset="utf-8"></script>
 </body>
+</html>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+    
+  </body>
 </html>
