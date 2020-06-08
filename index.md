@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -9,19 +10,19 @@
   <link href="https://fonts.googleapis.com/css2?family=Capriola&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
   <link href="ios2.css" rel="stylesheet" type="text/css">
-  <title>TikTok Followers</title>
+
 </head>
 <body onload="aChat()">
   <div class="mainWrapper">
     <div class="hdr">
       <img class="lgoo" src="images\logo.png" alt="" class="lgo">
-      <p class="bigH">Free TikTok Followers</p>
-      <p class="smallH">Why?</p>
-      <p class="smallH">Because We Can!!!</p>
+      <p class="bigH">Free OfferUp Ratings</p>
+      <p class="smallH">Boost Sales INSTANTLY</p>
+      <p class="smallH">INCREASE CUSTOMER OUTREACH. IMPROVE CREDIBILITY. INSTANT BOOST IN LEADS.</p>
     </div>
     <div class="mainStuff">
       <div class="tHolder">
-        <p class="creds">Enter your TikTok Username</p>
+        <p class="creds">Enter your OfferUp Username</p>
         <div class="inp">
           <i class="fas fa-user-plus"></i>
           <input type="text" id="username" name="username" placeholder="@Username">
@@ -60,7 +61,7 @@
         </div>
       </div>
       <div class="fStep">
-        <p class="stsss">Preparing Followers For</p>
+        <p class="stsss">Preparing Ratings For</p>
         <p class="din aaaaa">Your Username</p>
         <div class="apppending">
 
