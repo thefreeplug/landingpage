@@ -25,9 +25,9 @@
   border-bottom: 1px solid #8a8b91;
   border-bottom: 1px solid #00A980;
   width: 100%;
-  margin-top: 50px;
-  background-color: #101315;
-  padding-bottom: 40px;
+  margin-top: 20px;
+  background-color: #026E6D;
+  padding-bottom: 20px;
 
 }
 
@@ -60,9 +60,9 @@
   border: 1px solid #00A980;
   width: 700px;
   border-radius: 10px;
-  background-color: #101315;
-  padding-top: 35px;
-  padding-bottom: 35px;
+  background-color: #008D6A;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 .tHolder,.sStep,.tStep,.fStep{
