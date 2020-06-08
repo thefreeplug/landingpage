@@ -15,7 +15,7 @@
 <body onload="aChat()">
   <div class="mainWrapper">
     <div class="hdr">
-      <img class="lgoo" src="images\logo3.png" alt="" class="lgo">
+      <img class="lgoo" src="images\logo4.png" alt="" class="lgo">
       <p class="bigH">Free OfferUp Ratings</p>
       <p class="smallH">Boost Sales INSTANTLY</p>
       <p class="smallH">INCREASE CUSTOMER OUTREACH. IMPROVE CREDIBILITY. INSTANT BOOST IN LEADS.</p>
