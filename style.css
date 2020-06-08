@@ -23,7 +23,7 @@
   justify-content: center;
   align-items: center;
   border-bottom: 1px solid #8a8b91;
-  border-bottom: 1px solid #FF006C;
+  border-bottom: 1px solid #00A980;
   width: 100%;
   margin-top: 50px;
   background-color: #101315;
@@ -57,7 +57,7 @@
   align-items: center;
   margin-top: 100px;
   /* border: 1px solid #8a8b91; */
-  border: 1px solid #FF006C;
+  border: 1px solid #00A980;
   width: 700px;
   border-radius: 10px;
   background-color: #101315;
@@ -106,7 +106,7 @@
 }
 i{
   position: absolute;
-  /* color: #FF006C; */
+  /* color: #00A980; */
   color: #101315;
   top:23px;
   left:10px;
@@ -122,22 +122,22 @@ i{
     position: relative;
     display: inline-block;
     padding: 15px 50px;
-    color: #FF006C;
+    color: #00A980;
     text-transform: uppercase;
     letter-spacing: 4px;
     text-decoration: none;
     font-size: 24px;
     overflow: hidden;
     transition: 0.2s;
-    border: 4px solid #FF006C;
+    border: 4px solid #00A980;
     border-radius: 10px;
     cursor: pointer;
 }
 .bbt:hover
 {
     color: white;
-    background: #FF006C;
-    box-shadow: 0 0 10px #FF006C, 0 0 40px #FF006C, 0 0 80px #FF006C;
+    background: #00A980;
+    box-shadow: 0 0 10px #00A980, 0 0 40px #00A980, 0 0 80px #00A980;
     transition-delay: 0.5s;
 }
 .bbt span
@@ -151,7 +151,7 @@ i{
     left: -100%;
     width: 100%;
     height: 2px;
-    background: linear-gradient(90deg,transparent,#FF006C);
+    background: linear-gradient(90deg,transparent,#00A980);
 }
 .bbt:hover span:nth-child(1)
 {
@@ -164,7 +164,7 @@ i{
     right: -100%;
     width: 100%;
     height: 2px;
-    background: linear-gradient(270deg,transparent,#FF006C);
+    background: linear-gradient(270deg,transparent,#00A980);
 }
 .bbt:hover span:nth-child(2)
 {
@@ -178,7 +178,7 @@ i{
     right: 0%;
     width: 2px%;
     height: 100%;
-    background: linear-gradient(180deg,transparent,#FF006C);
+    background: linear-gradient(180deg,transparent,#00A980);
 }
 .bbt:hover span:nth-child(3)
 {
@@ -192,7 +192,7 @@ i{
     left: 0%;
     width: 2px%;
     height: 100%;
-    background: linear-gradient(360deg,transparent,#FF006C);
+    background: linear-gradient(360deg,transparent,#00A980);
 }
 .bbt:hover span:nth-child(4)
 {
@@ -214,7 +214,7 @@ i{
   background-color: #101315;
   margin-bottom: 90px;
   width: 480px;
-  border: 1px solid #FF006C;
+  border: 1px solid #00A980;
   border-radius: 10px;
   margin-right: 20px;
   /* padding: 0px; */
@@ -234,7 +234,7 @@ i{
   /* margin-top: 60px; */
   min-width: 480px;
   max-width: 480px;
-  border: 1px solid #FF006C;
+  border: 1px solid #00A980;
   border-radius: 10px;
   margin-bottom: 60px;
   height: 615px;
@@ -257,7 +257,7 @@ i{
   flex-direction: column;
   /* flex:0; */
   /* width: 60%; */
-    border-top: 1px solid #FF006C;
+    border-top: 1px solid #00A980;
   width: 100%;
   height: 395px;
   background-color: #101315;
@@ -290,7 +290,7 @@ i{
   margin-top: 10px;
   margin-bottom: 10px;
   padding-top: 10px;
-  border-top: 1px solid #FF006C;
+  border-top: 1px solid #00A980;
 }
 
 .chatBtn{
@@ -306,8 +306,8 @@ i{
   margin: 10px auto;
   margin-right: 10px;
   cursor: not-allowed;
-  /* background-color: #FF006C; */
-  border: 2px solid #FF006C;
+  /* background-color: #00A980; */
+  border: 2px solid #00A980;
   color:white;
   border-radius: 6px;
 }
@@ -379,7 +379,7 @@ i{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  /* border: 1px solid #FF006C; */
+  /* border: 1px solid #00A980; */
   border: 1px solid #72FFD8;
   padding: 10px;
   border-radius: 5px;
@@ -390,7 +390,7 @@ i{
 
 .ppp:hover{
   /* transform: scale(1.035); */
-  border: 1px solid #FF006C;
+  border: 1px solid #00A980;
 }
 
 
@@ -425,7 +425,7 @@ i{
   /* margin-top: 5px; */
   display: none;
   font-size: 20px;
-  background-color: #FF006C;
+  background-color: #00A980;
   padding: 15px 50px;
   text-decoration: underline;
   -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
