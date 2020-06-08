@@ -10,20 +10,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-	
-	
-  min-height: 100%;
-  min-width: 1024px;
-	
-  /* Set up proportionate scaling */
-  width: 100%;
-  height: auto;
-	
-  /* Set up positioning */
-  position: fixed;
-  top: 0;
-  left: 0;
-	
+  min-height: 100vh;
   background-image: url(images/st2.jpg);
   background-position: center;
   background-repeat: no-repeat;
@@ -39,7 +26,7 @@
   border-bottom: 1px solid #00A980;
   width: 100%;
   margin-top: 20px;
-  background-color: #026E6D;
+  background-color: #20dfb3;
   padding-bottom: 20px;
 
 }
@@ -51,7 +38,7 @@
 
 .bigH{
   font-size: 54px;
-  font-family: 'Mogra', cursive;
+  font-family: 'Impact', fantasy;
   margin-top: -50px;
   text-align: center;
   /* letter-spacing: 2px; */
