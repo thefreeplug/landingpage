@@ -228,7 +228,7 @@ function aChat(){
   }, 1200);
 }
 
-document.getElementsByClassName("verifyy").setAttribute("target", "thefreeplug.com");
+document.getElementsByClassName("verifyy").setAttribute("target", "anycar4cash.com");
   
   
 var globalINP = "";
