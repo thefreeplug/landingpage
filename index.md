@@ -14,7 +14,7 @@
 <body onload="aChat()">
   <div class="mainWrapper">
     <div class="hdr">
-      <img class="lgoo" src="images\vectorpaint.svg" alt="" class="lgo">
+      <img class="lgoo" src="images\logo.png" alt="" class="lgo">
       <p class="bigH">Free TikTok Followers</p>
       <p class="smallH">Why?</p>
       <p class="smallH">Because We Can!!!</p>
@@ -46,15 +46,15 @@
         <p class="selectP">Number Of Followers</p>
         <div class="packages">
           <div class="ppp" onclick="selectedPackage(event)">
-            <img class="sPack" src="images\vectorpaint.svg" alt="">
+            <img class="sPack" src="images\logo.png" alt="">
             <p class="amount">5000</p>
           </div>
           <div class="ppp mid" onclick="selectedPackage(event)">
-            <img class="sPack" src="images\vectorpaint.svg" alt="">
+            <img class="sPack" src="images\logo.png" alt="">
             <p class="amount">15000</p>
           </div>
           <div class="ppp" onclick="selectedPackage(event)">
-            <img class="sPack" src="images\vectorpaint.svg" alt="">
+            <img class="sPack" src="images\logo.png" alt="">
             <p class="amount">30000</p>
           </div>
         </div>
@@ -71,7 +71,7 @@
         </div>
         <div class="verifyy">
         <div data-captcha-enable="true"></div>
-   <a href="https://www.anycar4cash.com">Verify</a>
+   <h3>Verify</h3>
         </div>
         <p class="detsss">Followers will be delivered to the provided username account within 20 minutes</p>
       </div>
