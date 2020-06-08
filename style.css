@@ -10,6 +10,7 @@
   display: block;
   flex-direction: row;
   align-items: center;
+  min-width: 1500px;
   min-height: 100vh;
   background-image: url(images/st2.jpg);
   background-position: center;
