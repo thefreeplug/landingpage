@@ -35,7 +35,20 @@
 .lgoo{
   width: 200px;
   height: 200px;
-  border-radius: 100%;
+  display: block;
+  position: relative;
+}
+
+.lgoo::after {
+  content: "";
+  background: url(images\logo.svg);
+  opacity: 0.5;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;   
 }
 
 .bigH{
