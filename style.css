@@ -7,7 +7,7 @@
 
 
 .mainWrapper{
-  display: flex;
+  display: block;
   flex-direction: row;
   align-items: center;
   min-height: 100vh;
@@ -18,7 +18,7 @@
   /* background-attachment: fixed; */
 }
 .hdr{
-  display: flex;
+  display: block;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -34,7 +34,7 @@
 .lgoo{
   width: 200px;
   height: 200px;
-  background: transparent;
+  background-color: #00A980;
 }
 
 .bigH{
