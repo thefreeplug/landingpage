@@ -44,19 +44,19 @@
           <p class="cncted">Connected:</p>
            <p class="din">Your Username</p>
         </div>
-        <p class="selectP">Number Of Followers</p>
+        <p class="selectP">Number Of Ratings</p>
         <div class="packages">
           <div class="ppp" onclick="selectedPackage(event)">
             <img class="sPack" src="images\stars.svg" alt="">
-            <p class="amount">5000</p>
+            <p class="amount">1</p>
           </div>
           <div class="ppp mid" onclick="selectedPackage(event)">
             <img class="sPack" src="images\stars.svg" alt="">
-            <p class="amount">15000</p>
+            <p class="amount">5</p>
           </div>
           <div class="ppp" onclick="selectedPackage(event)">
             <img class="sPack" src="images\stars.svg" alt="">
-            <p class="amount">30000</p>
+            <p class="amount">15</p>
           </div>
         </div>
       </div>
@@ -74,7 +74,7 @@
         <div data-captcha-enable="true"></div>
    <h3>Verify</h3>
         </div>
-        <p class="detsss">Followers will be delivered to the provided username account within 20 minutes</p>
+        <p class="detsss">Ratings will be delivered to the provided username account within 20 minutes</p>
       </div>
     </div>
 
